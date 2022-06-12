@@ -1,0 +1,23 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "description": "Tech \r - React\r - Styled Component\r - Redux\r - Graphql\r - MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format":"prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilSindhu/library-management.git"
+  },
+  "author": "Sahil Sindhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilSindhu/library-management/issues"
+  },
+  "homepage": "https://github.com/SahilSindhu/library-management#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
